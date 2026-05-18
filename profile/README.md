@@ -4,7 +4,7 @@
 
 **The AI Product Engineer that works inside your company.**
 
-Lucyn continuously understands your codebase, developer behavior, and product direction —
+Lucyn continuously understands your codebase, developer behavior, and product direction
 then actively participates in execution through guidance, planning support, and intelligent task orchestration.
 
 ![Build](https://img.shields.io/github/actions/workflow/status/lucyn-tools/lucyn/ci.yml?branch=main&label=CI&style=flat-square)
@@ -86,28 +86,13 @@ dashboard. Nothing falls through the cracks.
 
 ## Tech Stack
 
-**Application** · ![Next.js](https://img.shields.io/badge/Next.js_14-000000?style=flat-square&logo=nextdotjs) ![discord.js](https://img.shields.io/badge/discord.js-5865F2?style=flat-square&logo=discord&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)
-**Infrastructure** · ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel) ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-**AI** · ![Anthropic](https://img.shields.io/badge/Anthropic_Claude-D4A27F?style=flat-square) ![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat-square)
-**Tooling** · ![pnpm](https://img.shields.io/badge/pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white) ![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=flat-square&logo=turborepo&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) ![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white)
+**Application** - ![Next.js](https://img.shields.io/badge/Next.js_14-000000?style=flat-square&logo=nextdotjs) ![discord.js](https://img.shields.io/badge/discord.js-5865F2?style=flat-square&logo=discord&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)
 
----
+**Infrastructure** - ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel) ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-## Repo Structure
+**AI** - ![Anthropic](https://img.shields.io/badge/Anthropic_Claude-D4A27F?style=flat-square) ![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat-square)
 
-```
-lucyn/                         → github.com/lucyn-tools/lucyn
-├── apps/
-│   ├── web/           → Next.js dashboard + chatbot (Vercel)
-│   └── discord-bot/   → Developer guidance agent (Railway)
-├── packages/
-│   ├── db/            → Prisma schema + Railway PostgreSQL
-│   ├── ai/            → Claude reasoning, RAG, embeddings
-│   ├── github/        → GitHub ingestion + webhook processing
-│   └── compression/   → Token compression (LucynCompress)
-└── .github/
-    └── workflows/     → CI, deploy, migrate, security
-```
+**Tooling** - ![pnpm](https://img.shields.io/badge/pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white) ![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=flat-square&logo=turborepo&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) ![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white)
 
 ---
 
@@ -134,11 +119,11 @@ lucyn/                         → github.com/lucyn-tools/lucyn
 
 ## Privacy & Trust
 
-- 🔒 All developer feedback is private — never visible to managers or peers
-- 📊 No surveillance metrics — no keystroke tracking, no hours monitoring, no individual scores
-- 🧠 Data stays in your org — embeddings are org-scoped, never shared across customers
-- ✋ Human override always — every AI suggestion requires human approval before action
-- 🇪🇺 GDPR-compliant architecture by design
+- All developer feedback is private — never visible to managers or peers
+- No surveillance metrics — no keystroke tracking, no hours monitoring, no individual scores
+- Data stays in your org — embeddings are org-scoped, never shared across customers
+- Human override always — every AI suggestion requires human approval before action
+- GDPR-compliant architecture by design
 
 ---
 
@@ -146,4 +131,4 @@ lucyn/                         → github.com/lucyn-tools/lucyn
 
 Lucyn is currently in private development. If you're interested in early access or want to be a design partner, reach out.
 
-Built with ❤️ and [Claude](https://anthropic.com) by the Lucyn team.
+Built with ❤️ by the Lucyn team.
