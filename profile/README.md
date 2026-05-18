@@ -20,7 +20,7 @@ then actively participates in execution through guidance, planning support, and 
 
 ## What is Lucyn?
 
-Lucyn is an AI Product Engineer embedded directly into your engineering organization. It ingests data from GitHub, Discord, and meetings to build a continuously updated picture of your codebase and team — then uses that context to send private feedback to developers, surface delivery risks to leadership, and suggest task assignments. Unlike passive dashboards that report what happened, Lucyn is designed to act. It serves engineering teams at every level: CEOs and CTOs who need real-time health signals, and developers who want direct, contextual guidance without surveillance.
+Lucyn is an AI Product Engineer embedded directly into your engineering organization. It ingests data from GitHub, Discord, and meetings to build a continuously updated picture of your codebase and team then uses that context to send private feedback to developers, surface delivery risks to leadership, and suggest task assignments. Unlike passive dashboards that report what happened, Lucyn is designed to act. It serves engineering teams at every level: CEOs and CTOs who need real-time health signals, and developers who want direct, contextual guidance without surveillance.
 
 ---
 
