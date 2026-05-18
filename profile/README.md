@@ -121,6 +121,7 @@ lucyn/                         → github.com/lucyn-tools/lucyn
 - [ ] Engineering health dashboard
 - [ ] AI chatbot interface
 - [ ] Task recommendation system (human approval required)
+
 **Phase 2 — Coming Next**
 - [ ] Google Meet agent
 - [ ] Automated sprint summaries
@@ -143,6 +144,6 @@ lucyn/                         → github.com/lucyn-tools/lucyn
 
 ## Contributing
 
-Lucyn is currently in private development. If you're interested in early access or want to be a design partner, watch this repo or reach out.
+Lucyn is currently in private development. If you're interested in early access or want to be a design partner, reach out.
 
 Built with ❤️ and [Claude](https://anthropic.com) by the Lucyn team.
