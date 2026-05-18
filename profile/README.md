@@ -37,7 +37,9 @@ Lucyn is an AI Product Engineer embedded directly into your engineering organiza
 ## How It Works
 
 **🔍 Understands** — Ingests GitHub commits, PRs, meeting transcripts, and Discord conversations. Builds a continuously updated Engineering Knowledge Graph.
+
 **🧠 Reasons** — Uses Claude to cross-reference codebase context, developer behavior, and business intent. Retrieves only the most relevant context via RAG.
+
 **⚡ Acts** — Sends private PR feedback to developers, surfaces delivery risks to leadership, suggests task assignments, posts meeting summaries.
 
 ---
