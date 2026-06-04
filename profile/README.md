@@ -36,7 +36,11 @@ from meetings and discussions, never lost again.
 
 ---
 
-Lucyn is proprietary software in private beta.
+<div align="center">
+  
+`Lucyn is proprietary software in private beta.`
+
+</div>
 
 ---
 
