@@ -46,8 +46,6 @@ from meetings and discussions, never lost again.
 
 <div align="center">
 
-This software and its source code are the exclusive property of Abhay Krishna
-and are protected under a proprietary license. Unauthorised use, reproduction,
-or distribution is strictly prohibited.
+Built by [Abhay Krishna](https://github.com/Abhay-Mmmm)
 
 </div>
